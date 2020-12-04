@@ -1,0 +1,27 @@
+{
+  "name": "parcel-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosh1/parcel-react.git"
+  },
+  "author": "Yoshihisa Kaino <yoppy1125yoppy@gmail.com> (https://github.com/yoshi1125hisa)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosh1/parcel-react/issues"
+  },
+  "homepage": "https://github.com/yosh1/parcel-react#readme",
+  "devDependencies": {
+    "babel-preset-react-app": "^10.0.0",
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
